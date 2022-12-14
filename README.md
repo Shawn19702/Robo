@@ -1,5 +1,5 @@
-'''
-package sb;
+ ``` 
+ package sb;
 import robocode.HitRobotEvent;
 import robocode.Robot;
 import robocode.ScannedRobotEvent;
@@ -79,4 +79,4 @@ public class FirstBot extends Robot
 		}
 	}
 }
-'''
+``` 
